@@ -3,7 +3,7 @@
 
 First include this function, then do this code.
 
-####$browser = get_user_browser();
-####if( $browser == "ie" ){
-    ####//do stuff
-####}
+$browser = get_user_browser();
+if( $browser == "ie" ) {
+    // include your style/script
+}
